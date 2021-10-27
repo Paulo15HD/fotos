@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListaCidades> 
+    <cidade>
+        <nome>Salinas</nome>
+        <longitude>-42.294955</longitude>
+        <latitude>-16.172774</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Rubelita</nome>
+                <distancia>30.4</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Novorizonte</nome>
+                <distancia>28.7</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>34.2</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Padre Carvalho</nome>
+                <distancia>63.6</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Grão Mogou</nome>
+                <distancia>109</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Taiobeiras</nome>
+                <distancia>50.4</distancia>
+            </vizinho>
+
+        </listaVizinhos>
+    </cidade> 
+
+    <cidade>
+        <nome>Rubelita</nome>
+        <longitude>-42.26436</longitude>
+        <latitude>-16.39917</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Salinas</nome>
+                <distancia>30.4</distancia>
+            </vizinho>
+
+        </listaVizinhos>
+    </cidade>
+
+    <cidade>
+        <nome>Novorizonte</nome>
+        <longitude>-42.408523</longitude>
+        <latitude>-16.018537</latitude>
+        <listaVizinhos>
+            <vizinho>
+            <vizinho>
+                <nome>Salinas</nome>
+                <distancia>28.7</distancia>
+            </vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>16.6</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Taiobeiras</nome>
+                <distancia>45.4</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Rio Pardo</nome>
+                <distancia>61.5</distancia>
+            </vizinho>
+        </listaVizinhos>
+    </cidade>
+    <cidade>
+        <nome>Fruta de Leite</nome>
+        <longitude>-42.526961</longitude>
+        <latitude>-16.114879</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Novorizonte</nome>
+                <distancia>16.6</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Padre Carvalho</nome>
+                <distancia>41</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Taiobeiras</nome>
+                <distancia>55.8</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Rio Pardo</nome>
+                <distancia>72</distancia>
+            </vizinho>
+        </listaVizinhos>
+    </cidade>
+
+    <cidade>
+        <nome>Padre Carvalho</nome>
+        <longitude>-42.5147196</longitude>
+        <latitude>-16.365609</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Salinas</nome>
+                <distancia>63.6</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>65.8</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Grão Mogou</nome>
+                <distancia>65.8</distancia>
+            </vizinho>
+        </listaVizinhos>
+    </cidade>
+
+    <cidade>
+        <nome>Grão Mogou</nome>
+        <longitude>-42.893325</longitude>
+        <latitude>-16.568973</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Padre Carvalho</nome>
+                <distancia>65.8</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>78.5</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Salinas</nome>
+                <distancia>109</distancia>
+            </vizinho>
+        </listaVizinhos>
+    </cidade>
+
+    <cidade>
+        <nome>Taiobeiras</nome>
+        <longitude>-42.228849</longitude>
+        <latitude>-15.810702</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Salinas</nome>
+                <distancia>50.4</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>55.8</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Novorizonte</nome>
+                <distancia>45.4</distancia>
+            </vizinho>
+            
+            <vizinho>
+                <nome>Rio Pardo</nome>
+                <distancia>48.4</distancia>
+            </vizinho>
+        </listaVizinhos>
+    </cidade>
+    <cidade>
+        <nome>Rio Pardo</nome>
+        <longitude>-42.545741</longitude>
+        <latitude>-15.606573</latitude>
+        <listaVizinhos>
+            <vizinho>
+                <nome>Novorizonte</nome>
+                <distancia>61.5</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Taiobeiras</nome>
+                <distancia>48.4</distancia>
+            </vizinho>
+            <vizinho>
+                <nome>Fruta de Leite</nome>
+                <distancia>72</distancia>
+            </vizinho>
+
+
+        </listaVizinhos>
+    </cidade>
+</ListaCidades> 
