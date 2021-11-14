@@ -183,10 +183,6 @@
         <longitude>-45.294955</longitude>
         <latitude>-17.172774</latitude>
         <listaVizinhos>
-            <vizinho>
-                <nome>jorginho Gamepys</nome>
-                <distancia>30.4</distancia>
-            </vizinho>
         </listaVizinhos>
     </cidade> 
 </ListaCidades> 
