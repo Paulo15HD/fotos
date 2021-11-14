@@ -174,15 +174,6 @@
                 <nome>Fruta de Leite</nome>
                 <distancia>72</distancia>
             </vizinho>
-
-
-        </listaVizinhos>
+         </listaVizinhos>
     </cidade>
-     <cidade>
-        <nome>Jorginho Gameplays</nome>
-        <longitude>-42.893325</longitude>
-        <latitude>-15.606573</latitude>
-        <listaVizinhos>
-        </listaVizinhos>
-   </cidade>
 </ListaCidades> 
