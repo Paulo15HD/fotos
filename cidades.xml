@@ -178,11 +178,4 @@
 
         </listaVizinhos>
     </cidade>
-    <cidade>
-        <nome>Mario Games</nome>
-        <longitude>-45.294955</longitude>
-        <latitude>-17.172774</latitude>
-        <listaVizinhos>
-        </listaVizinhos>
-    </cidade> 
 </ListaCidades> 
