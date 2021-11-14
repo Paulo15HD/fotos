@@ -178,4 +178,11 @@
 
         </listaVizinhos>
     </cidade>
+     <cidade>
+        <nome>Jorginho Gameplays</nome>
+        <longitude>-42.545741</longitude>
+        <latitude>-15.606573</latitude>
+        <listaVizinhos>
+        </listaVizinhos>
+   </cidade>
 </ListaCidades> 
