@@ -22,7 +22,7 @@
                 <distancia>63.6</distancia>
             </vizinho>
             <vizinho>
-                <nome>Grão Mogou</nome>
+                <nome>Grão Mogol</nome>
                 <distancia>109</distancia>
             </vizinho>
             <vizinho>
@@ -107,14 +107,14 @@
                 <distancia>65.8</distancia>
             </vizinho>
             <vizinho>
-                <nome>Grão Mogou</nome>
+                <nome>Grão Mogol</nome>
                 <distancia>65.8</distancia>
             </vizinho>
         </listaVizinhos>
     </cidade>
 
     <cidade>
-        <nome>Grão Mogou</nome>
+        <nome>Grão Mogol</nome>
         <longitude>-42.893325</longitude>
         <latitude>-16.568973</latitude>
         <listaVizinhos>
