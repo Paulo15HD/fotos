@@ -176,11 +176,4 @@
             </vizinho>
          </listaVizinhos>
     </cidade>
-    <cidade>
-        <nome>teste</nome>
-        <longitude>-42.893325</longitude>
-        <latitude>-15.606573</latitude>
-        <listaVizinhos>
-        </listaVizinhos>
-    </cidade>
 </ListaCidades> 
